@@ -1,6 +1,8 @@
 # om.composer
 Supplemental data and obtained results for "Contrapuntal composition and autonomous style development of organum motets by using AntsOMG"
 
+*For better audio experience, please use headphones when listening.*
+
 ----------
 Experiment ID = 03-30-55-121283246
 ----------
