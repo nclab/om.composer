@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>art.cctcc</groupId>
+  <artifactId>cec2021</artifactId>
+  <version>1.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Source Code for CEC2021</name>
+  <description>
+      Supplemental code for "Contrapuntal composition and autonomous style development of organum motets by using AntsOMG"
+  </description>
+  <modules>
+    <module>antsomg</module>
+    <module>cf.composer</module>
+    <module>om.composer</module>
+  </modules>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>16</maven.compiler.source>
+    <maven.compiler.target>16</maven.compiler.target>
+  </properties>  
+  <build>
+    <pluginManagement>
+      <plugins>      
+        <plugin>
+          <groupId>org.codehaus.mojo</groupId>
+          <artifactId>exec-maven-plugin</artifactId>
+          <version>3.0.0</version>
+          <executions>
+            <execution>
+              <phase>verify</phase>
+              <goals>
+                <goal>java</goal>
+              </goals>
+              <configuration>
+                <mainClass>${main.class}</mainClass>
+              </configuration>
+            </execution>
+          </executions>
+        </plugin>
+      </plugins>    
+    </pluginManagement>
+  </build>
+</project>

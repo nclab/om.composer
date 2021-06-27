@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>
+POPULATION=400
+THRESHOLD=
+ProjectName=D:\DevProjects\CEC-2021\repo\_cf\GENERATE_CF_02-18-58-824635800
+SEED=1624472338825
+TARGET_SIZE=100
+GENERATION=300
+MODEL=DEVELOP_MODAL_STANDARD_04-21-00-700950200
+FOLDER=
+</comment>
+<entry key="POPULATION">400</entry>
+<entry key="THRESHOLD"></entry>
+<entry key="ProjectName">D:\DevProjects\CEC-2021\repo\_cf\GENERATE_CF_02-18-58-824635800</entry>
+<entry key="SEED">1624472338825</entry>
+<entry key="TARGET_SIZE">100</entry>
+<entry key="GENERATION">300</entry>
+<entry key="MODEL">DEVELOP_MODAL_STANDARD_04-21-00-700950200</entry>
+<entry key="FOLDER"></entry>
+</properties>

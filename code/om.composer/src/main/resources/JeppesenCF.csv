@@ -1,0 +1,22 @@
+Dorian, 1, D4, F4, E4, D4, G4, F4, A4, G4, F4, E4, D4
+Dorian, 2, D4, A4, G4, F4, E4, D4, F4, E4, D4
+Dorian, 3, D4, F4, G4, A4, G4, F4, E4, D4
+Dorian, 4, D4, A4, Bf4, A4, G4, F4, E4, D4
+Dorian, 5, D3, E3, D3, A3, G3, F3, E3, D3
+Phrygian, 6, E4, C4, D4, C4, A3, A4, G4, E4, F4, E4
+Phrygian, 7, E4, A3, A4, G4, F4, E4, D4, F4, E4
+Phrygian, 8, E4, D4, E4, F4, G4, A4, D4, F4, E4
+Phrygian, 9, E4, A3, B3, C4, D4, E4, F4, D4, G4, F4, E4
+Phrygian, 10, E4, D4, G4, F4, C4, D4, E4, A3, E3
+Mixolydian, 11, G3, D4, C4, A3, B3, C4, B3, A3, G3
+Mixolydian, 12, G3, E3, F3, G3, A3, G3, C4, B3, A3, G3
+Mixolydian, 13, G3, D4, B3, E4, D4, C4, B3, A3, G3
+Mixolydian, 14, G4, C4, D4, E4, F4, E4, A4, G4
+Aeolian, 15, A3, F4, E4, C4, D4, C4, B3, A3
+Aeolian, 16, A3, B3, G3, A3, B3, A3, D4, C4, B3, A3
+Aeolian, 17, A3, E4, B3, D4, C4, B3, A3
+Aeolian, 18, A3, A4, G4, E4, F4, E4, D4, C4, B3, A3
+Ionian, 19, C4, E4, F4, G4, E4, A4, G4, E4, F4, E4, D4, C4
+Ionian, 20, C4, G4, G3, A3, B3, C4, D4, E4, F4, E4, D4, C4
+Ionian, 21, C4, E4, D4, E4, F4, G4, A4, D4, E4, D4, C4
+Ionian, 22, C4, G3, A3, B3, C4, D4, E4, D4, C4

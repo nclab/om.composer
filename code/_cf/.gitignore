@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!/*/
+!/GENERATE_CF_02-18-58-824635800/**

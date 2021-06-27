@@ -1,0 +1,12 @@
+digraph MusicSpace {
+	Start -> Directional [ label=<c=0.5, pher=175.45> ];
+	Start -> Complemental [ label=<c=1.0, pher=193.78> ];
+	Directional -> Conjunct [ label=<c=0.1, pher=97.32> ];
+	Directional -> Disjunct [ label=<c=1.0, pher=78.13> ];
+	Conjunct -> Start [ label=<c=1.0, pher=97.32> ];
+	Disjunct -> Start [ label=<c=1.0, pher=78.13> ];
+	Complemental -> ShortTerm [ label=<c=1.0, pher=87.95> ];
+	Complemental -> LongTerm [ label=<c=1.0, pher=105.83> ];
+	ShortTerm -> Start [ label=<c=1.0, pher=87.95> ];
+	LongTerm -> Start [ label=<c=1.0, pher=105.83> ];
+}

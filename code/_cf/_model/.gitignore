@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!/*/
+!/DEVELOP_MODAL_STANDARD_04-21-00-700950200/**
