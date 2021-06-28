@@ -1,4 +1,8 @@
-# Supplemental source code for *Contrapuntal composition and autonomous style development of organum motets by using AntsOMG*
+# A Guide to the Source Code
+
+Supplemental source code for "Contrapuntal composition and autonomous style development of organum motets by using AntsOMG"
+
+`Version: 1.0.1`
 
 ## Prerequisite
 
@@ -31,6 +35,6 @@ mvn verify -Dexec.args="CF=GENERATE_CF_21-14-35-417558700"
 
 This will take much longer time to finish. The result will be stored in a folder named with prefix `ORGANUM.MOTET` under `/_projects` folder.
 
-You can also specify your own cantus firmus folder. Just put it under `/_cf `folder and specify the cantus firmus folder name with the `CF` parameter above.
+You can also specify your own cantus firmus folder. Just put it under `/_cf` folder and specify the cantus firmus folder name with the `CF` parameter above.
 
-Refer to our previous work [_AntsOMG: A Framework Aiming to Automate Creativity and Intelligent Behavior with a Showcase on Cantus Firmus Composition and Style Development_](https://www.mdpi.com/2079-9292/9/8/1212) for more information about the generation of cantus firmus.
+Refer to our previous work "AntsOMG: A Framework Aiming to Automate Creativity and Intelligent Behavior with a Showcase on Cantus Firmus Composition and Style Development" ( doi: [10.3390/electronics9081212](https://doi.org/10.3390/electronics9081212) ) for more information about the generation of cantus firmus.
