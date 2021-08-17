@@ -30,7 +30,7 @@ The generated music files in `.musicxml` format can be found in a fixed folder n
 The following command will produce ten Organum Motets per composer by default, with full style model development process.
 
 ```java
-mvn verify -Dexec.args="CF=GENERATE_CF_21-14-35-417558700"
+mvn verify -Dexec.args="CF=GENERATE_CF_02-18-58-824635800"
 ```
 
 This will take much longer time to finish. The result will be stored in a folder named with prefix `ORGANUM.MOTET` under `/_projects` folder.
