@@ -34,4 +34,4 @@ _* Corrigendum: The description of Figure 9 in the paper referred to Motet No.15
 
 Please cite
 
-> Chang, C.-y., & Chen, Y.-p. (2021). Contrapuntal composition and autonomous style development of organum motets by using AntsOMG. In <i>Proceedings of 2021 IEEE Congress on Evolutionary Computation (CEC 2021)</i> (pp. 2023¡V2030). doi: [10.1109/CEC45853.2021.9504881](http://dx.doi.org/10.1109/CEC45853.2021.9504881).
+> Chang, C.-y., & Chen, Y.-p. (2021). Contrapuntal composition and autonomous style development of organum motets by using AntsOMG. In <i>Proceedings of 2021 IEEE Congress on Evolutionary Computation (CEC 2021)</i> (pp. 2023-2030). doi: [10.1109/CEC45853.2021.9504881](http://dx.doi.org/10.1109/CEC45853.2021.9504881).
